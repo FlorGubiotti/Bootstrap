@@ -1,0 +1,94 @@
+{
+    "tareas": [
+        {
+            "id": 1,
+            "titulo": "Reunión de requisitos",
+            "descripcion": "Reunirse con el cliente para definir los requisitos del proyecto",
+            "tiempo": 2,
+            "foto": "https://img.freepik.com/fotos-premium/vista-superior-gente-negocios-que-trabaja-oficina_972290-3195.jpg?size=626&ext=jpg&ga=GA1.1.2038409095.1698099534&semt=sph",
+            "responsable": "Ana",
+            "estado": "Por Hacer"
+        },
+        {
+            "id": 2,
+            "titulo": "Diseño de la interfaz",
+            "descripcion": "Crear los diseños de la interfaz de usuario",
+            "tiempo": 5,
+            "foto": "https://img.freepik.com/fotos-premium/hacker-capucha-usando-computadora-mesahacker-capucha-usando-computadora-mesahacker_912214-17113.jpg?size=626&ext=jpg&ga=GA1.1.2038409095.1698099534&semt=sph",
+            "responsable": "Carlos",
+            "estado": "En Producción"
+        },
+        {
+            "id": 3,
+            "titulo": "Desarrollo de la base de datos",
+            "descripcion": "Diseñar y crear la base de datos del sistema",
+            "tiempo": 3,
+            "foto": "https://img.freepik.com/foto-gratis/concepto-equipo-inmovil-estilo-espacio-trabajo-lugar-trabajo_53876-31713.jpg?size=626&ext=jpg&ga=GA1.1.2038409095.1698099534&semt=ais",
+            "responsable": "Luis",
+            "estado": "Completada"
+        },
+        {
+            "id": 4,
+            "titulo": "Desarrollo de la funcionalidad",
+            "descripcion": "Desarrollar las funciones y características del sistema",
+            "tiempo": 7,
+            "foto": "https://img.freepik.com/foto-gratis/fondo-programacion-texto-html_23-2150040418.jpg?size=626&ext=jpg&ga=GA1.1.2038409095.1698099534&semt=sph",
+            "responsable": "María",
+            "estado": "Completada"
+        },
+        {
+            "id": 5,
+            "titulo": "Pruebas y depuración",
+            "descripcion": "Realizar pruebas y corregir errores del sistema",
+            "tiempo": 4,
+            "foto": "https://img.freepik.com/fotos-premium/2023-imagen-jpg-foto-fondo-blanco-fondo-pantalla-aislado-textura-foto-imagen-2024_873925-240281.jpg?size=626&ext=jpg&ga=GA1.1.2038409095.1698099534&semt=sph",
+            "responsable": "Diego",
+            "estado": "Por Testear"
+        },
+        {
+            "id": 6,
+            "titulo": "Despliegue del sitio web",
+            "descripcion": "Publicar el sitio web en el servidor de producción",
+            "tiempo": 2,
+            "foto": "url-de-la-foto-6.jpg",
+            "responsable": "Elena",
+            "estado": "Por Hacer"
+        },
+        {
+            "id": 7,
+            "titulo": "Capacitación del cliente",
+            "descripcion": "Capacitar al cliente en el uso del sistema",
+            "tiempo": 1,
+            "foto": "https://img.freepik.com/foto-gratis/recortar-personas-proceso-creacion_23-2147656061.jpg?size=626&ext=jpg&ga=GA1.1.2038409095.1698099534&semt=sph",
+            "responsable": "Héctor",
+            "estado": "En Producción"
+        },
+        {
+            "id": 8,
+            "titulo": "Entrega final",
+            "descripcion": "Entregar el proyecto finalizado al cliente",
+            "tiempo": 1,
+            "foto": "https://img.freepik.com/fotos-premium/apreton-manos-cliente-gerente-empresa-cerca-lugar-trabajo-oficina-moderna_160672-20282.jpg?size=626&ext=jpg&ga=GA1.1.2038409095.1698099534&semt=ais",
+            "responsable": "Gloria",
+            "estado": "Por Hacer"
+        },
+        {
+            "id": 9,
+            "titulo": "Documentación y cierre",
+            "descripcion": "Preparar la documentación y cerrar el proyecto",
+            "tiempo": 2,
+            "foto": "https://img.freepik.com/fotos-premium/persona-que-firma-documento-boligrafo_741910-5301.jpg?size=626&ext=jpg&ga=GA1.1.2038409095.1698099534&semt=ais",
+            "responsable": "Iván",
+            "estado": "Por Hacer"
+        },
+        {
+            "id": 10,
+            "titulo": "Seguridad y auditoría",
+            "descripcion": "Evaluar la seguridad del sistema y realizar una auditoría",
+            "tiempo": 5,
+            "foto": "https://img.freepik.com/foto-gratis/grupo-personas-estan-sentadas-alrededor-mesa-ellas-lleva-traje_1340-35870.jpg?size=626&ext=jpg&ga=GA1.1.2038409095.1698099534&semt=sph",
+            "responsable": "Marta",
+            "estado": "Por Testear"
+        }
+    ]
+}

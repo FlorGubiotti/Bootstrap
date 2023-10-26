@@ -2,9 +2,10 @@
 
 Se trata de un sitio web que tiene como fin aprender a utilizar HTML, CSS y JavaScript con Bootstrap. 
 
-##Instalacion 
+## Instalacion 
 
 1. Crear una carpeta donde se desee clonar el dispositivo
+   
 2. En tu consola, escribir el siguiente comando:
    ```
    git clone https://github.com/FlorGubiotti/Bootstrap.git
